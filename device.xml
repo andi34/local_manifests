@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_device_samsung_p3100" path="device/samsung/p3100" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_device_samsung_p3110" path="device/samsung/p3110" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_device_samsung_p5100" path="device/samsung/p5100" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_device_samsung_p5110" path="device/samsung/p5110" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_device_samsung_espresso-common" path="device/samsung/espresso-common" remote="github" revision="cm-11.0" />
+
+  <project name="CyanogenMod/android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="cm-11.0" />
+
+  <project name="CyanogenMod/android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="github" revision="cm-11.0" />
+
+  <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-11.0" />
+
+  <project name="CyanogenMod/android_hardware_ti_omap4" path="hardware/ti/omap4" remote="github" revision="cm-11.0" />
+
+  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-11.0" />
+</manifest>
