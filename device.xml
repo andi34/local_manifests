@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="andi34/android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="kk4.4" />
+  <project name="andi34/android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="kk4.4" />
+
+  <project name="Unlegacy-Android/android_kernel_samsung_espresso" path="kernel/samsung/espresso10" remote="github" revision="stable" />
+
+  <project name="andi34/android_hardware_ti_omap4" path="hardware/ti/omap4" remote="github" revision="kk4.4" />
+
+  <project name="SlimRoms/hardware_samsung" path="hardware/samsung" remote="github" revision="kk4.4" />
+</manifest>
