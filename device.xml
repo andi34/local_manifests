@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="SlimRoms/device_samsung_p3100" path="device/samsung/p3100" remote="github" revision="lp5.1" />
+  <project name="SlimRoms/device_samsung_p3110" path="device/samsung/p3110" remote="github" revision="lp5.1" />
+  <project name="SlimRoms/device_samsung_p5100" path="device/samsung/p5100" remote="github" revision="lp5.1" />
+  <project name="SlimRoms/device_samsung_p5110" path="device/samsung/p5110" remote="github" revision="lp5.1" />
+
+  <project name="SlimRoms/device_samsung_espresso-common" path="device/samsung/espresso-common" remote="github" revision="lp5.1" />
+
+  <project name="SlimRoms/device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="lp5.1" />
+  <project name="SlimRoms/device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="lp5.1" />
+
+  <project name="SlimRoms/kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="github" revision="lp5.1" />
+
+  <project name="SlimRoms/hardware_samsung" path="hardware/samsung" remote="github" revision="lp5.1" />
+
+</manifest>
