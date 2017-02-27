@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+     <project name="andi34/android_pull" remote="github" path="pull" revision="android-4.4" />
+</manifest>
