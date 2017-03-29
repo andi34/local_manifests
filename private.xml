@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="private_stuff"
+           fetch="ssh://git@gitlab.com/" />
+
+   <!-- espresso -->
+  <project path="kernel/samsung/espresso-7.1" name="andi34/android_kernel_samsung_espresso" remote="private_stuff" revision="aosp-7.1" />
+
+</manifest>
