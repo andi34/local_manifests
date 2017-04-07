@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="andi34"
+           fetch="https://github.com/andi34/" />
+
+  <project name="android_pull" remote="andi34" path="pull" revision="ng7.1" />
+</manifest>
