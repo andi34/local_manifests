@@ -9,7 +9,11 @@
   <project name="LineageOS/android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="cm-13.0" />
   <project name="LineageOS/android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="cm-13.0" />
 
+  <project name="LineageOS/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="cm-13.0" />
+  <project name="LineageOS/android_device_samsung_maguro" path="device/samsung/maguro" remote="github" revision="cm-13.0" />
+
   <project name="LineageOS/android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="github" revision="cm-13.0" />
+  <project name="LineageOS/android_kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="cm-13.0" />
 
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-13.0" />
 
