@@ -6,11 +6,9 @@
   <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" remote="aosp" revision="master" groups="pdk,linux,arm" />
 
-  <project name="SlimRoms/device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="ng7.1" />
-  <project name="SlimRoms/device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="ng7.1" />
   <project name="SlimRoms/device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="ng7.1" />
-
   <project name="SlimRoms/kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="ng7.1" />
 
+  <project name="SlimRoms/hardware_ti_omap4" path="hardware/ti/omap4" remote="github" revision="ng7.1" />
 
 </manifest>
