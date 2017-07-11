@@ -2,7 +2,4 @@
 <manifest>
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
-
-  <project name="LineageOS/android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="cm-14.1" />
 </manifest>
