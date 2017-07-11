@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project name="android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="omnirom" revision="android-7.1" />
-  <project name="android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="omnirom" revision="android-7.1" />
-
   <project name="android_hardware_ti_omap4" path="hardware/ti/omap4" remote="omnirom" revision="android-7.1" />
 
 </manifest>
