@@ -10,8 +10,6 @@
   <project name="android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="omnirom" revision="android-6.0" />
   <project name="android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="omnirom" revision="android-6.0" />
 
-  <project name="andi34/device_samsung_espresso-common" path="device/samsung/espressocommon" remote="github" revision="twrp" />
-
   <project name="android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="omnirom" revision="android-6.0" />
   <project name="android_kernel_ti_omap4" path="kernel/ti/omap4" remote="omnirom" revision="android-6.0" />
 
