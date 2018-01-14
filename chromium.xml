@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-     <project name="andi34/prebuilts_chromium" remote="github" path="prebuilts/chromium" revision="master" />
+
+  <remote  name="andi34"
+           fetch="https://github.com/andi34/" />
+
+  <project path="vendor/extra" name="android_vendor_extra" remote="andi34" revision="m" />
+  <project path="prebuilts/chromium-browser" name="prebuilts_chromium" remote="andi34" revision="master" />
+
 </manifest>
