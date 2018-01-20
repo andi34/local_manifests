@@ -7,7 +7,7 @@
   <remove-project name="platform/hardware/qcom/msm8x27" />
   <remove-project name="platform/hardware/qcom/msm8x74" />
   <remove-project name="platform/hardware/qcom/msm8x84" />
-  <remove-project name="LineageOS/android_hardware_qcom_audio" />
+  <!--<remove-project name="LineageOS/android_hardware_qcom_audio" />-->
   <remove-project name="LineageOS/android_hardware_qcom_bt" />
   <remove-project name="LineageOS/android_hardware_qcom_camera" />
   <remove-project name="LineageOS/android_hardware_qcom_display" />
