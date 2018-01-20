@@ -10,6 +10,7 @@
   <project name="LineageOS/android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="cm-11.0" />
 
   <project name="LineageOS/android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="github" revision="cm-11.0" />
+  <project name="LineageOS/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="cm-11.0" />
 
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-11.0" />
 
