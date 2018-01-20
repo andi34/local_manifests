@@ -4,8 +4,6 @@
   <remote  name="private_stuff"
            fetch="ssh://git@gitlab.com/" />
 
-  <project path="device/samsung/espressowifi" name="andi34/android_device_samsung_espressowifi" remote="private_stuff" revision="cm-14.1" />
-  <project path="device/samsung/espresso3g" name="andi34/android_device_samsung_espresso3g" remote="private_stuff" revision="cm-14.1" />
-  <project path="kernel/samsung/espresso" name="andi34/android_kernel_samsung_espresso" remote="private_stuff" revision="aosp-7.1" />
-  <project path="kernel/ti/omap4" name="andi34/android_kernel_ti_omap4" remote="private_stuff" revision="staging" />
+ <!-- <project path="packages/apps/SnapdragonCamera" name="andi34/android_packages_apps_Snap" remote="private_stuff" revision="LA.UM.5.7.r1-11500-8x98.0" /> -->
+
 </manifest>
