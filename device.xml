@@ -11,8 +11,10 @@
 
   <project name="LineageOS/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="cm-13.0" />
   <project name="LineageOS/android_device_samsung_maguro" path="device/samsung/maguro" remote="github" revision="cm-13.0" />
+  <project name="LineageOS/android_device_samsung_toro" path="device/samsung/toro" remote="github" revision="cm-13.0" />
+  <project name="LineageOS/android_device_samsung_toroplus" path="device/samsung/toroplus" remote="github" revision="cm-13.0" />
 
-  <project name="LineageOS/android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="github" revision="cm-13.0" />
+  <project name="LineageOS/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="cm-13.0" />
   <project name="LineageOS/android_kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="cm-13.0" />
 
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-13.0" />
