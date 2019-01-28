@@ -7,6 +7,8 @@
   <project name="android_packages_apps_Nfc" path="packages/apps/Nfc-nxp" remote="omnirom" revision="android-7.1-nxp" />
 
   <project name="andi34/device_samsung_espresso-common" path="device/samsung/espressocommon" remote="github" revision="twrp" />
+  <project name="android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="omnirom" revision="android-7.1" />
+  <project name="android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="omnirom" revision="android-7.1" />
 
   <project name="android_device_samsung_tuna" path="device/samsung/tuna" remote="omnirom" revision="android-7.1" />
   <project name="android_device_samsung_maguro" path="device/samsung/maguro" remote="omnirom" revision="android-7.1" />

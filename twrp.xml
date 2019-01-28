@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="andi34/device_samsung_espresso-common" path="device/samsung/p3100" remote="github" revision="twrp-p3100" />
+  <project name="andi34/device_samsung_espresso-common" path="device/samsung/p3110" remote="github" revision="twrp-p3110" />
+  <project name="andi34/device_samsung_espresso-common" path="device/samsung/p5100" remote="github" revision="twrp-p5100" />
+  <project name="andi34/device_samsung_espresso-common" path="device/samsung/p5110" remote="github" revision="twrp-p5110" />
+
+</manifest>
