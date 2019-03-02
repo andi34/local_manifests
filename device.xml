@@ -24,6 +24,6 @@
   <project name="android_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.7" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" remote="omnirom" revision="android-6.0" />
 
   <project name="Unlegacy-Android/android_hardware_ti_omap4" path="hardware/ti/omap4" remote="github" revision="stable" />
-  <project name="Unlegacy-Android/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="stable" />
+  <project name="Unlegacy-Android/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="3.0/common" />
 </manifest>
 
