@@ -20,7 +20,7 @@
   <project name="android_hardware_samsung" path="hardware/samsung" remote="omnirom" revision="android-4.4" />
 
   <project name="Unlegacy-Android/android_hardware_ti_omap4" path="hardware/ti/omap4" remote="github" revision="stable" />
-  <project name="Unlegacy-Android/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="stable" />
+  <project name="Unlegacy-Android/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="3.0/common" />
 
 </manifest>
 
