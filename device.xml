@@ -14,10 +14,14 @@
   <project name="LineageOS/android_device_samsung_toro" path="device/samsung/toro" remote="github" revision="cm-13.0" />
   <project name="LineageOS/android_device_samsung_toroplus" path="device/samsung/toroplus" remote="github" revision="cm-13.0" />
 
-  <project name="LineageOS/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="cm-13.0" />
   <project name="LineageOS/android_kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="cm-13.0" />
 
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-13.0" />
 
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-13.0" />
+
+  <remove-project name="LineageOS/android_hardware_ti_omap4" />
+  <project name="Unlegacy-Android/android_hardware_ti_omap4" path="hardware/ti/omap4" remote="github" revision="stable" />
+  <project name="Unlegacy-Android/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="stable" />
+
 </manifest>

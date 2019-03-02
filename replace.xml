@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-
-  <remove-project name="LineageOS/android_hardware_ti_omap4" />
-  <project path="hardware/ti/omap4" name="andi34/android_hardware_ti_omap4" remote="github" revision="cm-13.0" />
-
-</manifest>
