@@ -8,7 +8,9 @@
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" remote="aosp" revision="master" />
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" remote="aosp" revision="master" />
 
-  <project name="SlimRoms/kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="stable" />
-
   <project name="SlimRoms/android_external_stlport" path="external/stlport" remote="github" revision="mm6.0" />
+
+  <remove-project name="SlimRoms/hardware_ti_omap4" />
+  <project name="Unlegacy-Android/android_hardware_ti_omap4" path="hardware/ti/omap4" remote="github" revision="stable" />
+  <project name="Unlegacy-Android/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="stable" />
 </manifest>
