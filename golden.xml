@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="andi34/android_kernel_samsung_golden" path="kernel/samsung/golden" remote="github" revision="twrp" />
+  <project name="andi34/android_device_samsung_golden" path="device/samsung/golden" remote="github" revision="twrp-3.0" />
+
+</manifest>
+
