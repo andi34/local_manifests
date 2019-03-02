@@ -2,5 +2,5 @@
 <manifest>
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-14.1" />
-  <project name="TheMuppets/proprietary_vendor_ti" path="vendor/ti" remote="github" revision="master" />
+  <project name="Unlegacy-Android/proprietary_vendor_ti" path="vendor/ti" remote="github" revision="stable" />
 </manifest>
