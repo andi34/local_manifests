@@ -10,11 +10,11 @@
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" remote="aosp" revision="master" />
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" remote="aosp" revision="master" />
 
-  <project name="SlimRoms/device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="ng7.1" />
-  <project name="SlimRoms/device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="ng7.1" />
-  <project name="SlimRoms/device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="ng7.1" />
+  <project name="andi34/android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="ng7.1" />
+  <project name="andi34/android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="ng7.1" />
+  <project name="andi34/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="ng7.1" />
 
-  <project name="Unlegacy-Android/android_hardware_ti_omap4" path="hardware/ti/omap4" remote="github" revision="stable" />
-  <project name="Unlegacy-Android/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="3.0/common" />
+  <project name="andi34/android_hardware_ti_omap4" path="hardware/ti/omap4" remote="github" revision="ng7.1" />
+  <project name="andi34/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="3.0/common" />
 
 </manifest>
