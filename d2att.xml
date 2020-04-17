@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="SlimRoms/device_samsung_d2att" path="device/samsung/d2att" remote="github" revision="mm6.0" />
+  <project name="SlimRoms/device_samsung_d2-common" path="device/samsung/d2-common" remote="github" revision="mm6.0" />
+  <project name="SlimRoms/device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="mm6.0" />
+  <project name="SlimRoms/kernel_samsung_d2" path="kernel/samsung/d2" remote="github" revision="mm6.0" />
+  <project name="SlimRoms/hardware_samsung" path="hardware/samsung" remote="github" revision="mm6.0" />
+</manifest>
