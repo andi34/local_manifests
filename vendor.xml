@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="andi34/proprietary_vendor_samsung-2" path="vendor/samsung" remote="github" revision="kk4.4" />
-  <project name="Unlegacy-Android/proprietary_vendor_ti" path="vendor/ti" remote="github" revision="stable" />
+  <project name="andi34/proprietary_vendor_ti" path="vendor/ti" remote="github" revision="stable" />
 </manifest>
