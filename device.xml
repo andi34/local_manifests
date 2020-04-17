@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_device_samsung_p3100" path="device/samsung/p3100" remote="github" revision="cm-13.0" />
-  <project name="LineageOS/android_device_samsung_p3110" path="device/samsung/p3110" remote="github" revision="cm-13.0" />
-  <project name="LineageOS/android_device_samsung_p5100" path="device/samsung/p5100" remote="github" revision="cm-13.0" />
-  <project name="LineageOS/android_device_samsung_p5110" path="device/samsung/p5110" remote="github" revision="cm-13.0" />
-  <project name="LineageOS/android_device_samsung_espresso-common" path="device/samsung/espresso-common" remote="github" revision="cm-13.0" />
+  <project name="andi34/android_device_samsung_p3100" path="device/samsung/p3100" remote="github" revision="cm-13.0" />
+  <project name="andi34/android_device_samsung_p3110" path="device/samsung/p3110" remote="github" revision="cm-13.0" />
+  <project name="andi34/android_device_samsung_p5100" path="device/samsung/p5100" remote="github" revision="cm-13.0" />
+  <project name="andi34/android_device_samsung_p5110" path="device/samsung/p5110" remote="github" revision="cm-13.0" />
+  <project name="andi34/android_device_samsung_espresso-common" path="device/samsung/espresso-common" remote="github" revision="cm-13.0" />
 
-  <project name="LineageOS/android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="cm-13.0" />
-  <project name="LineageOS/android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="cm-13.0" />
+  <project name="andi34/android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="cm-13.0" />
+  <project name="andi34/android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="cm-13.0" />
 
   <project name="andi34/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="cm-13.0" />
   <project name="andi34/android_device_samsung_maguro" path="device/samsung/maguro" remote="github" revision="cm-13.0" />
@@ -21,7 +21,7 @@
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-13.0" />
 
   <remove-project name="LineageOS/android_hardware_ti_omap4" />
-  <project name="Unlegacy-Android/android_hardware_ti_omap4" path="hardware/ti/omap4" remote="github" revision="stable" />
-  <project name="Unlegacy-Android/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="3.0/common" />
+  <project name="andi34/android_hardware_ti_omap4" path="hardware/ti/omap4" remote="github" revision="cm-13.0" />
+  <project name="andi34/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="3.0/common" />
 
 </manifest>
